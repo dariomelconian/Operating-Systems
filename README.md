@@ -1,6 +1,6 @@
 # Operating-Systems
 
-This repository is a collection of Operating Systems assignments
+This repository is a collection of Operating Systems assignments.
 
 The assignments are a part of the course CS 3305, Operating Systems at Western University.
 
