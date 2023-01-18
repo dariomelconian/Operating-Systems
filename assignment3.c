@@ -2,7 +2,6 @@
  * Dario Melconian
  * Assignment #3 - CS 3305A
  * October 25, 2022
- * 251044493
  */
 
 #include <stdio.h>
