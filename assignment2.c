@@ -2,7 +2,6 @@
  * Dario Melconian
  * Assignment #2
  * October 12, 2022
- * 251044493
  */
 
 #include <stdio.h>
