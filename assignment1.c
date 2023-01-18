@@ -2,7 +2,6 @@
  * CS 3305
  * Assignment #1
  * Dario Melconian
- * 251044493
  */
 
 #include <stdio.h>
